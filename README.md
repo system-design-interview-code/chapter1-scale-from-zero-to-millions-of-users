@@ -1,2 +1,2 @@
-# chapter1-scale-from-zero-to-millions-of-users
+# part-1-chapter1-scale-from-zero-to-millions-of-users
 scale from zero to millions of users
